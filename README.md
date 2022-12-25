@@ -14,6 +14,9 @@ Programmed in assembly :
 
 The code was inspired on the C code from :  https://create.arduino.cc/projecthub/Yug_Ajmera/radar-sonar-using-processing-3-7302c6
 
+The same code in C takes much more.
+
+![image](https://user-images.githubusercontent.com/74420584/209464691-443f9883-ab71-4f43-9118-0f4eff6fb8de.png)
 
 
 This can help users detect obstacles that may be in their path or potential dangers like an approaching vehicle. 
