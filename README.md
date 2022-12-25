@@ -8,9 +8,12 @@ This program shows a demonstration of a radar using an ultrasonic sensor HC-SR04
 
 Because it needed to be fast and very stable. The program was written in assembly.  Another great advantage is that it is working super fast, because the number of instructions are much less than writing the same code in C. The entire program only uses 850 bytes.  While the same program in C takes
 
-Programmed in C :
+Programmed in assembly :
 
 ![image](https://user-images.githubusercontent.com/74420584/209464494-0db1326b-2fc7-455a-acb5-d4de5fab5080.png)
+
+The code was inspired on the C code from :  https://create.arduino.cc/projecthub/Yug_Ajmera/radar-sonar-using-processing-3-7302c6
+
 
 
 This can help users detect obstacles that may be in their path or potential dangers like an approaching vehicle. 
