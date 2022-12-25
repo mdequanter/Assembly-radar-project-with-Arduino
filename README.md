@@ -1,4 +1,4 @@
-# assembly
+# assembly based on ATMEGA328P
 
 I wrote in assembly on Arduino, with an ATMEGA328P because it is a great platform for embedded programming. It is low cost and easy to use, making it ideal for prototyping and experimentation. Additionally, assembly language provides direct access to hardware, allowing for ultimate control over how the microcontroller interacts with its environment. This is particularly useful when dealing with time-critical tasks, where extremely precise timing is required. Moreover, writing in assembly language makes it easier to make code more efficient and conserve memory, an important consideration when dealing with microcontrollers. For these reasons, using assembly language on the Arduino is an excellent choice for a variety of projects.
 
