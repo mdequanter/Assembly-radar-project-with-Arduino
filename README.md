@@ -12,7 +12,7 @@ Programmed in assembly :
 
 ![image](https://user-images.githubusercontent.com/74420584/209464494-0db1326b-2fc7-455a-acb5-d4de5fab5080.png)
 
-The code was inspired on the C code from :  https://create.arduino.cc/projecthub/Yug_Ajmera/radar-sonar-using-processing-3-7302c6
+The code was inspired on the C code from :  https://howtomechatronics.com/projects/arduino-radar-project/
 
 The same code in C takes much more.
 
